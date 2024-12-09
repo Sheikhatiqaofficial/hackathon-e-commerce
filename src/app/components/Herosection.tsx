@@ -2,6 +2,8 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
+
+
 const Herosection = () =>{
 return(
     <section className="relative w-full h-[704px] bg-white p-[60px_80px] opacity-1">
