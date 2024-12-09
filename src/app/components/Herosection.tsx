@@ -34,7 +34,7 @@ return(
 
           {/* Bottom Para Section */}
           <p
-            className="text-white font-satoshi text-[18px] font-normal leading-[30px] w-[610px] h-[150px] ml-[105]"
+            className="text-white font-satoshi text-[18px] font-normal leading-[30px] w-[610px] h-[150px] ml-205"
           >
             A new era in eco-friendly furniture with Avelon, the French luxury
             retail brand with nice fonts, tasteful colors, and a beautiful way to
